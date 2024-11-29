@@ -1,10 +1,6 @@
-# myapp
+# Codelab Implementasi Maps API
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Latihan praktikum modul 5 untuk implementasi API google maps pada sebuah aplikasi
 
 A few resources to get you started if this is your first Flutter project:
 
