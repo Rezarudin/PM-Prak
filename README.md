@@ -1,10 +1,6 @@
-# myapp
+# Codelab Implementasi Video Player
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Latihan Implementasi Video player pada sebuah aplikasi
 
 A few resources to get you started if this is your first Flutter project:
 
